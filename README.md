@@ -42,7 +42,7 @@ This project demonstrates a simple network topology built using Cisco Packet Tra
 * Devices can communicate across networks via the router.
 * DNS server resolves domain names for the web server.
 * Clients can access the web server using its domain name.
-* DHCP simplifies IP configuration for clients on both sides.
+* DHCP simplifies IP configuration for clients on both sides(IP Addresse + Gateway address + Dns Server Address).
 
 ## Network Diagram
 
