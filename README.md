@@ -46,7 +46,7 @@ This project demonstrates a simple network topology built using Cisco Packet Tra
 
 ## Network Diagram
 
-![Network Topology](pic.png)
+![Network Topology](Pic.png)
 
 ## Notes
 
